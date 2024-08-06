@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application Kotlin</string>
+    <string name="symbols">%s / %s</string>
+    <string name="last_updated_price">Последнее обновление: %s</string>
+    <string name="slash">/</string>
+    <string name="min_price">%s</string>
+</resources>
